@@ -1,0 +1,4 @@
+gdtm
+nltk
+notebook
+pandas
